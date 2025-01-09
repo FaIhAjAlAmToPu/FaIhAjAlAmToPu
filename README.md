@@ -1,4 +1,4 @@
-# Hi there, I'm FaIhAjAlAmToPu! 👋 
+# Hi there, I'm Faihaj Alam Topu! 👋 
 Welcome to my GitHub profile! I'm a passionate developer with a love for coding and creating innovative solutions. Here's a bit about me: 
 ## 🚀 About Me 
 - 🌱 I’m currently learning new technologies and improving my skills in software development. 
@@ -23,4 +23,4 @@ Here are a few projects I've worked on:
 - [LinkedIn](https://www.linkedin.com/in/faihajtopu)
 - [Twitter](https://x.com/FaihajTopu)
 - [Personal Website](https://faihajalamtopu.github.io/)
-Thanks for visiting my profile! Feel free to check out my repositories and get in touch!
+<br>Thanks for visiting my profile! Feel free to check out my repositories and get in touch!
