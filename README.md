@@ -16,9 +16,9 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FaIhAjAlAmToPu&layout=compact&theme=radical) 
 ## 📂 Projects 
 Here are a few projects I've worked on: 
-- [Result Publisher](https://github.com/FaIhAjAlAmToPu/result_publisher): Brief description of project 1. 
-- [Project 2](https://github.com/FaIhAjAlAmToPu/project2): Brief description of project 2.
-- [Project 3](https://github.com/FaIhAjAlAmToPu/project3): Brief description of project 3.
+- [Result Publisher](https://github.com/FaIhAjAlAmToPu/result_publisher): A web application that allows teachers to input, manage, and publish student results using golang and scylladb for high throughput and availability. 
+- [Supply Chain & Stock Management](https://github.com/Supply-Chain-Stock-Management/CSE-408): A robust inventory and supply chain management system developed using microservices architecture. Enables entities of supply chain to manage suppliers, track product stock levels, and monitor restocking efficiently.
+- [SportTrack](https://github.com/FaIhAjAlAmToPu/SportTrack): A ML project integrating Multi object tracking in sports to track ball, referee and players accross video frames.
 ## 🌐 Connect with me 
 - [LinkedIn](https://www.linkedin.com/in/faihajtopu)
 - [Twitter](https://x.com/FaihajTopu)
