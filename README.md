@@ -25,7 +25,7 @@ Welcome to my GitHub profile — I’m a full-stack developer passionate about s
 
 * **Languages:** Golang, Python, C#, JavaScript, Java, C++, C
 * **Frameworks & Libraries:** Django, React, .NET MVC, Spring Boot, Express.js
-* **AI & CV:** YOLOv5/YOLOv8, OpenCV, PyTorch, Swin Transformer, MOT
+* **AI & CV:** YOLOv8-12, OpenCV, PyTorch, Transformers, MOT
 * **Databases:** PostgreSQL, ScyllaDB, MongoDB, MySQL
 * **DevOps & Cloud:** Docker, Kubernetes, Redis, Kafka, AWS, Nginx
 * **Other Tools:** Git, GitHub, Postman, VS Code, FFMPEG, Ultralytics, OpenMMLab
