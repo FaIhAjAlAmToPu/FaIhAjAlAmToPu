@@ -1,26 +1,66 @@
-# Hi there, I'm Faihaj Alam Topu! 👋 
-Welcome to my GitHub profile! I'm a passionate developer with a love for coding and creating innovative solutions. Here's a bit about me: 
-## 🚀 About Me 
-- 🌱 I’m currently learning new technologies and improving my skills in software development. 
-- 👯 I’m looking to collaborate on open-source projects and exciting development opportunities.
-- 💬 Ask me about web development, Python, and JavaScript.
-- 📫 How to reach me: [gmail](mailto:faihajnow@gmail.com), [outlook](mailto:faihaj@outlook.com), [LinkedIn](https://www.linkedin.com/in/faihajtopu)
-- ⚡ Fun fact: I love solving puzzles and challenges in my free time.
+# Hi there, I'm Faihaj Alam Topu! 👋
+
+Welcome to my GitHub profile — I’m a full-stack developer passionate about scalable backend systems, computer vision, and clean architecture. Here's a bit about me:
+
+---
+
+## 🚀 About Me
+
+* 🌱 Currently exploring: **Agentic AI**, **Vector Databases**, and **Scalable Backend Systems**
+* 🛠️ Building real-world projects using **Golang**, **ScyllaDB**, **Kafka**, and **Microservices Architecture**
+* 🧠 Interested in **AI-driven video tracking**, **live dashboards**, and **travel assistant apps**
+* 💬 Ask me about **Golang**, **YOLOv8-12**, **ScyllaDB**, **PostgreSQL**, **Django**, and **MVC in .NET**
+* 👯 Open to collaborations on backend-intensive, AI-integrated, or real-time web apps
+* ⚡ Fun fact: I enjoy optimizing backend performance and debugging real-world problems
+* 📫 Reach me:
+
+  * [📧 Gmail](mailto:faihajnow@gmail.com)
+  * [📧 Outlook](mailto:faihaj@outlook.com)
+  * [💼 LinkedIn](https://www.linkedin.com/in/faihajtopu)
+  * [🌐 Personal Site](https://faihajalamtopu.github.io/)
+
+---
+
 ## 🛠️ Technologies & Tools
-- **Languages:** C, C++, C#, Golang, Java, Python, JavaScript, HTML, CSS
-- **Frameworks & Libraries:** Django, React, Node.js, Express, Spring Boot
-- **Tools & Platforms:** Git, GitHub, Docker, Kubernetes, AWS, VS Code
-- **Databases:** MySQL, MongoDB, ScyllaDB
-## 📈 GitHub Stats 
-![FaIhAjAlAmToPu's GitHub stats](https://github-readme-stats.vercel.app/api?username=FaIhAjAlAmToPu&show_icons=true&theme=radical) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FaIhAjAlAmToPu&layout=compact&theme=radical) 
-## 📂 Projects 
-Here are a few projects I've worked on: 
-- [Result Publisher](https://github.com/FaIhAjAlAmToPu/result_publisher): A web application that allows teachers to input, manage, and publish student results using golang and scylladb for high throughput and availability. 
-- [Supply Chain & Stock Management](https://github.com/Supply-Chain-Stock-Management/CSE-408): A robust inventory and supply chain management system developed using microservices architecture. Enables entities of supply chain to manage suppliers, track product stock levels, and monitor restocking efficiently.
-- [SportTrack](https://github.com/FaIhAjAlAmToPu/SportTrack): A ML project integrating Multi object tracking in sports to track ball, referee and players accross video frames.
-## 🌐 Connect with me 
-- [LinkedIn](https://www.linkedin.com/in/faihajtopu)
-- [Twitter](https://x.com/FaihajTopu)
-- [Personal Website](https://faihajalamtopu.github.io/)
-<br>Thanks for visiting my profile! Feel free to check out my repositories and get in touch!
+
+* **Languages:** Golang, Python, C#, JavaScript, Java, C++, C
+* **Frameworks & Libraries:** Django, React, .NET MVC, Spring Boot, Express.js
+* **AI & CV:** YOLOv5/YOLOv8, OpenCV, PyTorch, Swin Transformer, MOT
+* **Databases:** PostgreSQL, ScyllaDB, MongoDB, MySQL
+* **DevOps & Cloud:** Docker, Kubernetes, Redis, Kafka, AWS, Nginx
+* **Other Tools:** Git, GitHub, Postman, VS Code, FFMPEG, Ultralytics, OpenMMLab
+
+---
+
+## 📂 Featured Projects
+
+* 🔥 [**Result Publisher**](https://github.com/FaIhAjAlAmToPu/result_publisher):
+  Scalable result publishing system built with **Golang**, **Kafka**, **ScyllaDB**, and **PostgreSQL**, split into microservices to ensure high availability and low-latency performance.
+
+* ⚙️ [**Supply Chain & Stock Management**](https://github.com/Supply-Chain-Stock-Management/CSE-408):
+  Microservices-based inventory system for managing suppliers, stocks, and restocking — designed for scalability and modularity.
+
+* 🏃 [**SportTrack**](https://github.com/FaIhAjAlAmToPu/SportTrack):
+  Computer vision project using **YOLO** and **Multi-Object Tracking** to analyze players, ball, and referee movement in sports footage.
+
+* 🧠 **Agentic AI Experiments**:
+  Exploring LLM-powered agents, planning, and automation using tools like **LangGraph**, **LangChain**, and **OpenAI Assistants API**.
+
+---
+
+## 📈 GitHub Stats
+
+![Faihaj’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=FaIhAjAlAmToPu\&show_icons=true\&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FaIhAjAlAmToPu\&layout=compact\&theme=radical)
+
+---
+
+## 🌐 Connect with Me
+
+* [LinkedIn](https://www.linkedin.com/in/faihajtopu)
+* [Twitter](https://x.com/FaihajTopu)
+* [Personal Website](https://faihajalamtopu.github.io/)
+
+---
+
+> Thanks for visiting my profile! Check out my repositories, leave a ⭐ if you like something, and feel free to connect or collaborate!
